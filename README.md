@@ -37,3 +37,15 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
+
+Técnica em Informática para a internet pelo SENAC e apaixonada por programação e design.  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasouzadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=construdelas-projetos" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=desafio-git-dio-100" />
+</a>
