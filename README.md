@@ -42,7 +42,7 @@ Técnica em Informática para a internet pelo SENAC e apaixonada por programaç�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasouzadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vitoriasouzadev/construdelas-projetos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=construdelas-projetos" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
