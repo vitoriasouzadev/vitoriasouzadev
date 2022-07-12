@@ -2,11 +2,10 @@
 
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/vitoriasouzadev/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
-)]([urldasuarede](https://codepen.io/vitoriasouzadev)) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
-)](urldasuarede) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](urldasuarede)
-
+)](https://www.linkedin.com/in/vitoriasouzadev/) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+)](https://codepen.io/vitoriasouzadev) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
+)](https://www.behance.net/7a40b2e6) 
+ 
 ![Vitoria Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriasouzadev&show_icons=true&theme=radical)
 
 ### Tecnologias que eu utilizo e/ou estudo: 
