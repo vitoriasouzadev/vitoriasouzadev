@@ -45,6 +45,6 @@ Técnica em Informática para a internet pelo SENAC e apaixonada por programaç�
 <a href="https://github.com/vitoriasouzadev/construdelas-projetos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=construdelas-projetos" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/vitoriasouzadev/desafio-git-dio-100">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=desafio-git-dio-100" />
 </a>
