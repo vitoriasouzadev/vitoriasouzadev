@@ -48,3 +48,9 @@ Técnica em Informática para a internet pelo SENAC e apaixonada por programaç�
 <a href="https://github.com/vitoriasouzadev/desafio-git-dio-100">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=desafio-git-dio-100" />
 </a>
+<a href="https://github.com/vitoriasouzadev/estudos-javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=estudos-javascript" />
+</a>
+<a href="https://github.com/vitoriasouzadev/tqi-fullstack-developer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriasouzadev&repo=tqi-fullstack-developer" />
+</a>
